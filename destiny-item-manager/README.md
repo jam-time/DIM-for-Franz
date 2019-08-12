@@ -1,5 +1,5 @@
-# WhatsApp for Franz
-This is the official Franz recipe for WhatsApp
+# DIM for Franz
+Custom recipe for DIM on Franz
 
 ### How to create your own Franz recipes:
 * [Read the documentation](https://github.com/meetfranz/plugins)
