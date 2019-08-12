@@ -1,0 +1,12 @@
+{
+  "id": "destinyitemmanager",
+  "name": "DIM",
+  "version": "0.0.1",
+  "description": "Destiny Item Manager",
+  "main": "index.js",
+  "author": "Jake Meador <jameador13@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.destinyitemmanager.com"
+  }
+}
