@@ -808,3 +808,11 @@ h4 {
   .pull-item-button:hover {
     opacity: 1;
 }
+
+.inventory-title {
+  height: 0px;
+}
+
+.inventory-title .store-cell {
+  visibility: hidden;
+}
